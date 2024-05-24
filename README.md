@@ -1,2 +1,1 @@
-# gitHubPractice
-For Github Practice 
+Main Contains Both Header and Footer
