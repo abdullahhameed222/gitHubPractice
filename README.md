@@ -1,1 +1,1 @@
-Main Contains Both Header and Footer
+This Contains Header
